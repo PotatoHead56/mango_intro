@@ -104,7 +104,7 @@ export default function Home() {
             <h1 className="mt-6 font-serif text-5xl font-black leading-[1.15] sm:mt-8 sm:text-7xl md:text-6xl lg:text-8xl">
               在欉紅的，
               <br />
-              才叫芒果。
+              才叫芒果。666
             </h1>
             <p className="mt-8 max-w-md text-base leading-8 text-[#1c1a17]/75 sm:mt-10 sm:text-lg sm:leading-9">
               等到果實在樹上熟透、香氣飽滿才採收，分級裝箱後冷藏直送。每年夏天只賣這一季，賣完就等明年。
