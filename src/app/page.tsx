@@ -11,7 +11,7 @@ import Welcome from "./welcome";
 const products = [
   {
     id: "gift-box",
-    name: "愛文芒果禮盒促銷",
+    name: "愛文芒果禮盒",
     en: "Irwin Gift Box",
     spec: "5 台斤・約 8–10 顆",
     price: "880",
